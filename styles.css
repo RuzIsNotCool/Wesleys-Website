@@ -1,0 +1,19 @@
+img {
+    width: 350px;
+}
+body {
+     text-align: center;
+     background-color: #80f442;
+}
+h1 {
+    color: #80f442;
+    font-family: 'Anton', sans-serif;
+    background-color: black;
+}
+h3 {
+    font-family: 'Abel', sans-serif;
+}
+h2 {
+    color:#ef2323;
+    font-family: 'Anton', sans-serif;
+}
